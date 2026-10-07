@@ -73,7 +73,7 @@ OEM was then successfully accessed through the browser and the Oracle Enterprise
 Evidence
 
 The OEM dashboard screenshot is available in:
-``
+`OEM.png`
 
 
 6. Challenges and Solutions
