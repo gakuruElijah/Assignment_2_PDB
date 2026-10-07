@@ -40,7 +40,7 @@ The PDB was verified using the Oracle PDB status command/query and was shown as:
 The administrative user was also verified inside the PDB.
 Evidence
 Screenshots are available in:
-`screenshots/pdb_creation/`
+`PDB_creation.png`
 
 
 4. Task 2 – Create and Delete a Temporary PDB
@@ -60,7 +60,7 @@ The deletion was confirmed by querying the database and verifying that the tempo
 
 Evidence
 Screenshots are available in:
-`screenshots/pdb_deletion/`
+`delete.png`
 
 
 5. Task 3 – Oracle Enterprise Manager
@@ -73,7 +73,7 @@ OEM was then successfully accessed through the browser and the Oracle Enterprise
 Evidence
 
 The OEM dashboard screenshot is available in:
-`screenshots/oem_dashboard/`
+``
 
 
 6. Challenges and Solutions
